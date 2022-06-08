@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">QRCode</string>
+    <!--MainActivity-->
+    <string name="capture">Capture</string>
+    <string name="generate">Generate</string>
+    <string name="qr_code">QR code</string>
+
+    <!--ResultActivity-->
+    <string name="result">Result</string>
+    <string name="hi">Hi</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!--wifi-->
+    <string name="type_wifi">WIFI</string>
+    <string name="wifi_connect">Do you want to connect to\n%1$s</string>
+    <string name="connect_wifi">Connect WIFI</string>
+
+
+    <!--website-->
+    <string name="type_url">Website</string>
+    <string name="go_to_website">Go to website</string>
+
+    <!--sms-->
+    <string name="type_sms">SMS</string>
+    <string name="send_sms">Send SMS</string>
+
+    <!--geo-->
+    <string name="type_geo">Geography</string>
+    <string name="open_map">Open map</string>
+
+    <!--tel-->
+    <string name="type_tel">Telephone</string>
+    <string name="call">Call</string>
+
+    <!--email-->
+    <string name="type_email">E-mail</string>
+    <string name="send_email">Send E-mail</string>
+
+    <!--text-->
+    <string name="type_text">Text</string>
+
+
+    <!--Generate-->
+    <string name="save">Save</string>
+    <string name="type_generate">Type Generate</string>
+
+
+    <!--Type Generate-->
+    <string name="wifi">WIFI</string>
+    <string name="website">WEB</string>
+    <string name="sms">SMS</string>
+    <string name="geo">GEO</string>
+    <string name="tel">TEL</string>
+    <string name="mail">MAIL</string>
+    <string name="mecard">MECARD</string>
+    <string name="vcard">VCARD</string>
+    <string name="vevent">VEVENT</string>
+
+
+    <!--Geo Generate-->
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="query">Query</string>
+
+    <!--Mail Generate-->
+    <string name="mail_address">Mail Address</string>
+
+    <!--SMS Generate-->
+    <string name="message">MESSAGE</string>
+    <string name="phone_number">Phone Number</string>
+
+    <!--URL Generate-->
+    <string name="url">URL</string>
+
+    <!--WIFI Generate-->
+    <string name="ssid">SSID</string>
+    <string name="password">Password</string>
+    <string name="network_type">Network Type</string>
+    <string name="none">NONE</string>
+    <string name="hidden">Hidden?</string>
+</resources>
